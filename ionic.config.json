@@ -1,0 +1,7 @@
+{
+  "name": "noise-detector",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
