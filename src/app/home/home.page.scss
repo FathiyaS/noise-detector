@@ -25,3 +25,10 @@
 #container a {
   text-decoration: none;
 }
+
+/* CSS yang benar */
+.cssChart {
+  width: 100% !important;   /* Lebar canvas mengikuti kontainer */
+  height: 700px !important; /* Tentukan tinggi canvas */
+  border: 1px solid #ccc;   /* Border agar lebih jelas terlihat */
+}
